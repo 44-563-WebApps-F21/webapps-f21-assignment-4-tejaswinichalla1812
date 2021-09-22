@@ -34,7 +34,7 @@ th{
     color: black;
     border: 1px solid black;
     text-align: center;
-    background-color:WHEAT;
+    background-color:darkgray;
 }
 td{
     color:rgb(70, 51, 153);
@@ -42,5 +42,5 @@ td{
     text-align: left;
 }
 tr:nth-child(even) {
-    background-color:MAROON;
+    background-color:lightsalmon;
 }
