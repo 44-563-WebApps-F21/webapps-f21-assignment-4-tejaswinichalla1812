@@ -50,4 +50,23 @@ tr:nth-child(even) {
     filter: blur(3px);
     border: solid 2px rgb(220, 220, 220);
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:ghostwhite ;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color:gold ;
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkseagreen;
+    color:lightpink;
+}
 
