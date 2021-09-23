@@ -44,3 +44,10 @@ td{
 tr:nth-child(even) {
     background-color:lightsalmon;
 }
+.name:hover{
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.822);
+    color:lightskyblue(0, 195, 255);
+    filter: blur(3px);
+    border: solid 2px rgb(220, 220, 220);
+}
+
